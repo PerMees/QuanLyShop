@@ -1,7 +1,3 @@
-import { Product } from "../models/Product.js";
-
-console.log("as");
-
 const arrProduct = [
   { id: 1, name: "iphone X", price: 1000, img: "http://permees.site" },
   { id: 2, name: "iphone Xs", price: 1100, img: "http://permees.site" },
