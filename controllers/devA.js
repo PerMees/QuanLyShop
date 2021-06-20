@@ -4,3 +4,6 @@ const devA = () => {
   console.log("code code code");
 };
 
+const createBranchDevA = () => {
+  console.log("tao nhanh devA");
+};
