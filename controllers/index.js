@@ -5,6 +5,8 @@ const arrProduct = [
 ];
 
 const render = () => {
+  console.log("Mình mới vừa viết hàm này Dev A");
+
   let content = "";
 
   for (let product of arrProduct) {
